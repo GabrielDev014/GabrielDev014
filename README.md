@@ -1,4 +1,6 @@
-## Seja bem-vindo!
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Gabriel!;" />
+</h1>
 
 <div>
   
@@ -7,10 +9,8 @@
 </div>
 <br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" src="code.gif">
-    <h1 align="center">Melhores Tecnologias </h1>
+<div  align="center">
+  <h1 align="center">Melhores Tecnologias </h1>
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"">
     <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
@@ -18,8 +18,10 @@
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
    </div>
     
-  
-  <h1 align="center">Redes Sociais</h1>
+<div  align="center">
+  <h1 align="center">Contatos</h1>
+   <img align="left" height="250" src="code.gif">
+    <br><br><br><br>
     <a href = "mailto: gabriellimaalves.si25@gmail.com">
       <img width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
