@@ -29,7 +29,7 @@
       <img width="127" src="linkedin.png">
     </a>
     <a href = "https://www.instagram.com/limalvesz?igsh=MWN6YnJsYmFpZ2dobA==">
-      <img width="141" src="instagram.png">
+      <img width="141" src="insta.png">
     </a>
 </div>
   
