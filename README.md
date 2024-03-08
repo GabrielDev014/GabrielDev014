@@ -23,13 +23,13 @@
    <img align="left" height="250" src="code.gif">
     <br><br><br><br>
     <a href = "mailto: gabriellimaalves.si25@gmail.com">
-      <img width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      <img width="100" src="gmail.png">
     </a>
     <a href = "https://www.linkedin.com/in/gabriel-lima251204/">
-      <img width="127" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img width="127" src="linkedin.png">
     </a>
     <a href = "https://www.instagram.com/limalvesz?igsh=MWN6YnJsYmFpZ2dobA==">
-      <img width="141" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+      <img width="141" src="instagram.png">
     </a>
 </div>
   
