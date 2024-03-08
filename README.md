@@ -2,8 +2,8 @@
 
 <div>
   
-  <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=GabrielDev014&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDev014&layout=compact&langs_count=16&theme=dark"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielDev014&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDev014&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
 
@@ -26,7 +26,7 @@
     <a href = "https://www.linkedin.com/in/gabriel-lima251204/">
       <img width="127" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://www.instagram.com/limalvesz?igsh=MWN6YnJsYmFpZ2dobA==">
       <img width="141" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </div>
